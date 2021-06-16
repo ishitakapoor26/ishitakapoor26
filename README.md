@@ -1,7 +1,7 @@
 <div>
 <h1 align="center">Hi <img src="https://psdalumni.org/wp-content/uploads/2019/07/Wavehand.gif" width="40" height="40">, I'm Ishita Kapoor</h1>
 <h3 align="center">A passionate and consistent learner from India</h3>
-<center><img src="https://media.istockphoto.com/vectors/smiling-girl-sitting-at-laptop-and-learning-coding-vector-id1093952508?k=6&m=1093952508&s=612x612&w=0&h=EcWgOcxWjkYlSKDQeyBb6Bp2IB6pDNVFk6zdUsLsA6o=">
+<center><img align="center" src="https://media.istockphoto.com/vectors/smiling-girl-sitting-at-laptop-and-learning-coding-vector-id1093952508?k=6&m=1093952508&s=612x612&w=0&h=EcWgOcxWjkYlSKDQeyBb6Bp2IB6pDNVFk6zdUsLsA6o=">
 </center>
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
