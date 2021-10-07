@@ -16,7 +16,7 @@
 </div>
 <br>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishita-kapoor-789141184/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/ishita-kapoor-789141184/" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/ishita-kapoor-789141184/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/ishita-kapoor-789141184/" height="60" width="60" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ishitakapoor12612/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" height="60" width="60" /></a>
 <a href="https://github.com/ishitakapoor26" target="blank"><img align="center" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" alt="https://github.com/ishitakapoor26" height="50" width="60" /></a>
 </p>
