@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ishita-kapoor-789141184/**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/ishita-kapoor-789141184)**
 
 - ⚡ Fun fact **I like to interact with people of different backgrounds.**
 <br>
