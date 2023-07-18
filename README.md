@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://psdalumni.org/wp-content/uploads/2019/07/Wavehand.gif" width="40" height="40">, I'm Ishita Kapoor</h1>
 <span>
 <h3 align="left">Microsoft Imagine Cup'23 National Winner | Google SC'23 Finalist | Won 25+ National and International Hackathons | ex-SDE Intern @ Extension Technologies | MLH Prep Fellow | Ambitious Girl | Aspiring Entrepreneur </h3> 
-<img align="right" height="35%" width="35%" style="margin: 10px 12px 2px 8px;" src="https://codecool.com/wp-content/uploads/2021/09/codergirl-hash-1024x972.jpg">
+<img align="right" height="40%" width="40%" style="margin: 10px 12px 2px 8px;" src="https://cdn.dribbble.com/users/2938327/screenshots/11235947/04_4x.jpg">
 </span> 
 <br>
 
@@ -13,8 +13,6 @@
 - ⚡ Fun fact **I like to interact with people of different backgrounds.**
 <br>
 <br>
-<span>
-<img align="left" height="30%" width="30%" style="margin: 15px 25px 15px 5px;" src="https://i.pinimg.com/736x/ce/e7/ae/cee7ae7173d1bd33a1d2ee86cb4776cc.jpg">
 <div align="right">
 <h3 align="left"><img src="https://blogs.missouristate.edu/polsci/files/2019/08/handshake1.gif" width="40" height="40"> Connect with me:</h3>
 </div>
