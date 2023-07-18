@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
+- Aspiring Software Developer
+
 - 📫 How to reach me **https://www.linkedin.com/in/ishita-kapoor-789141184/**
 
 - ⚡ Fun fact **I like to interact with people of different backgrounds.**
@@ -20,8 +22,6 @@
 <a href="https://www.linkedin.com/in/ishita-kapoor-789141184/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="https://www.linkedin.com/in/ishita-kapoor-789141184/" height="60" width="60" /></a>
 <a href="https://github.com/ishitakapoor26" target="blank"><img align="center" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" alt="https://github.com/ishitakapoor26" height="50" width="60" /></a>
 </p>
-</span>
-<br>
 <br>
 <div>
 <h3 align="left"><img src="https://i.pinimg.com/originals/46/c5/d8/46c5d8630eb4135dd94a82b39bcf0c6c.gif" width="50" height="30">Languages and Tools:</h3>
