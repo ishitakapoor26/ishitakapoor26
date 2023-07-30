@@ -1,7 +1,7 @@
 <div>
 <h1 align="center">Hi <img src="https://psdalumni.org/wp-content/uploads/2019/07/Wavehand.gif" width="40" height="40">, I'm Ishita Kapoor</h1>
 <span>
-<h3 align="left">Microsoft Imagine Cup'23 National Winner | Google SC'23 Finalist | Won 25+ National and International Hackathons | ex-SDE Intern @ Extension Technologies | MLH Prep Fellow | Ambitious Girl | Aspiring Entrepreneur </h3> 
+<h3 align="left">Microsoft Imagine Cup'23 National Winner | Google SC'23 Finalist | Won 25+ National and International Hackathons | ex-SDE Intern @ Extension Technologies | MLH Prep Fellow | Ambitious Girl </h3> 
 <img align="right" height="40%" width="40%" style="margin: 10px 12px 2px 8px;" src="https://cdn.dribbble.com/users/2938327/screenshots/11235947/04_4x.jpg">
 </span> 
 <br>
